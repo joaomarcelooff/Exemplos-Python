@@ -11,3 +11,4 @@ for i in range (1,8):
 
 print (f'Os valores digitados foram {lista_num}')
 print (f'Os valores ímpares digitados foram {num_impares}')
+print ("Obrigado por utilizar nosso programa!")
